@@ -11,7 +11,7 @@ body{
     width:1333px;
     height: 800px;
     background-size: cover;
-    background-image: url(/img/2.jpeg);
+    background-image: url(https://github.com/sbo2401/website/raw/main/img/2.jpeg);
 }
 #two{
     display: flex;
